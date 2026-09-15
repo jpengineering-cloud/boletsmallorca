@@ -21,13 +21,6 @@ const FOREST_LABELS = {
   garriga_marina: "Garriga",
 };
 
-function scoreColor(score) {
-  if (score >= 60) return "#c53030";
-  if (score >= 35) return "#dd9c2f";
-  if (score >= 10) return "#4a7c59";
-  return "#9aa5ab";
-}
-
 let geojson = null;
 let currentSpecies = null;
 let styleReady = false;
@@ -83,19 +76,21 @@ function render() {
   };
 
   const src = map.getSource("bolets");
-  if (src) {
+  if (src && map.getLayer("bolets-fill")) {
     src.setData(fc);
     return;
   }
-
-  map.addSource("bolets", { type: "geojson", data: fc });
+  if (src) {
+    src.setData(fc);
+  } else {
+    map.addSource("bolets", { type: "geojson", data: fc });
+  }
   map.addLayer({
-    id: "bolets-points",
-    type: "circle",
+    id: "bolets-fill",
+    type: "fill",
     source: "bolets",
     paint: {
-      "circle-radius": ["interpolate", ["linear"], ["get", "score"], 0, 4, 100, 12],
-      "circle-color": [
+      "fill-color": [
         "step",
         ["get", "score"],
         "#9aa5ab",
@@ -103,13 +98,21 @@ function render() {
         35, "#dd9c2f",
         60, "#c53030",
       ],
-      "circle-opacity": 0.85,
-      "circle-stroke-width": 1,
-      "circle-stroke-color": "#ffffff",
+      "fill-opacity": 0.55,
+    },
+  });
+  map.addLayer({
+    id: "bolets-outline",
+    type: "line",
+    source: "bolets",
+    paint: {
+      "line-color": "#ffffff",
+      "line-opacity": 0.25,
+      "line-width": 1,
     },
   });
 
-  map.on("click", "bolets-points", (e) => {
+  map.on("click", "bolets-fill", (e) => {
     const p = e.features[0].properties;
     const scores = JSON.parse(typeof p.scores === "string" ? p.scores : JSON.stringify(p.scores));
     const rows = geojson.species
@@ -124,8 +127,8 @@ function render() {
       )
       .addTo(map);
   });
-  map.on("mouseenter", "bolets-points", () => (map.getCanvas().style.cursor = "pointer"));
-  map.on("mouseleave", "bolets-points", () => (map.getCanvas().style.cursor = ""));
+  map.on("mouseenter", "bolets-fill", () => (map.getCanvas().style.cursor = "pointer"));
+  map.on("mouseleave", "bolets-fill", () => (map.getCanvas().style.cursor = ""));
 }
 
 if ("serviceWorker" in navigator) {

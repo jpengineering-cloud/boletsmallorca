@@ -5,6 +5,20 @@ import { SPECIES, scoreSpeciesForCell } from "./lib/species.mjs";
 
 const grid = JSON.parse(readFileSync(new URL("../data/grid.json", import.meta.url)));
 const cells = grid.cells;
+const halfLat = grid.latStep / 2;
+const halfLon = grid.lonStep / 2;
+
+function cellRectangle(lat, lon) {
+  return [
+    [
+      [lon - halfLon, lat - halfLat],
+      [lon + halfLon, lat - halfLat],
+      [lon + halfLon, lat + halfLat],
+      [lon - halfLon, lat + halfLat],
+      [lon - halfLon, lat - halfLat],
+    ],
+  ];
+}
 
 const PAST_DAYS = 30;
 const lats = cells.map((c) => c.lat).join(",");
@@ -35,7 +49,7 @@ const features = cells.map((cell, i) => {
   const bestId = Object.entries(scores).sort((a, b) => b[1] - a[1])[0][0];
   return {
     type: "Feature",
-    geometry: { type: "Point", coordinates: [cell.lon, cell.lat] },
+    geometry: { type: "Polygon", coordinates: cellRectangle(cell.lat, cell.lon) },
     properties: {
       id: cell.id,
       elevation: cell.elevation,

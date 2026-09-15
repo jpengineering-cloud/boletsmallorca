@@ -3,6 +3,7 @@
 import { readFileSync, writeFileSync } from "node:fs";
 import { pointInRing } from "./lib/point-in-polygon.mjs";
 import { classifyRegion, classifyForestType } from "./lib/geography.mjs";
+import { loadOsmExclusionData, isUrbanized } from "./lib/osm-exclusion.mjs";
 
 const LAT_STEP = 0.03; // ~3.3km
 const LON_STEP = 0.04; // ~3.4km at this latitude
@@ -63,11 +64,18 @@ for (let i = 0; i < candidates.length; i += BATCH) {
 }
 console.log();
 
-const cells = candidates.map((c, i) => {
+console.log("Fetching urban/road exclusion layer from OpenStreetMap...");
+const osmData = await loadOsmExclusionData();
+console.log(`  ${osmData.polygons.length} urban/industrial polygons, ${osmData.lines.length} major roads`);
+
+let excludedCount = 0;
+const allCells = candidates.map((c, i) => {
   const elevation = elevations[i];
   const region = classifyRegion(c.lat, c.lon);
   const dCoast = Math.round(distToCoastKm([c.lon, c.lat], ring) * 10) / 10;
-  const forestType = classifyForestType(region, elevation, dCoast);
+  const urbanized = isUrbanized(c.lat, c.lon, osmData);
+  if (urbanized) excludedCount++;
+  const forestType = urbanized ? "urbanitzat" : classifyForestType(region, elevation, dCoast);
   return {
     id: `c${i}`,
     lat: c.lat,
@@ -78,9 +86,16 @@ const cells = candidates.map((c, i) => {
     forestType,
   };
 });
+console.log(`Excluded ${excludedCount} cells that fall on roads/urban/industrial land`);
+
+const cells = allCells.filter((c) => c.forestType !== "urbanitzat");
 
 writeFileSync(
   new URL("../data/grid.json", import.meta.url),
-  JSON.stringify({ generatedAt: new Date().toISOString(), cellCount: cells.length, cells }, null, 2)
+  JSON.stringify(
+    { generatedAt: new Date().toISOString(), latStep: LAT_STEP, lonStep: LON_STEP, cellCount: cells.length, cells },
+    null,
+    2
+  )
 );
 console.log(`Wrote data/grid.json with ${cells.length} cells`);

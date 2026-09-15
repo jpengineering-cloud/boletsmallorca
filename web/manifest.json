@@ -1,0 +1,12 @@
+{
+  "name": "Bolets Mallorca",
+  "short_name": "Bolets Mallorca",
+  "description": "Mapa de probabilitat de bolets a Mallorca segons meteorologia recent",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#1f5130",
+  "theme_color": "#1f5130",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

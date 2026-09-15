@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+<title>Bolets Mallorca</title>
+<link rel="manifest" href="manifest.json" />
+<meta name="theme-color" content="#1f5130" />
+<link rel="icon" href="icon.svg" type="image/svg+xml" />
+<link rel="apple-touch-icon" href="icon.svg" />
+<link href="https://cdn.jsdelivr.net/npm/maplibre-gl@4.7.1/dist/maplibre-gl.css" rel="stylesheet" />
+<style>
+  :root { color-scheme: light dark; }
+  html, body { margin: 0; height: 100%; font-family: system-ui, -apple-system, "Segoe UI", sans-serif; }
+  #map { position: absolute; inset: 0; }
+  .panel {
+    position: absolute; top: 12px; left: 12px; right: 12px; z-index: 10;
+    background: rgba(255,255,255,0.95); border-radius: 12px; padding: 10px 12px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.25); max-width: 420px;
+  }
+  @media (prefers-color-scheme: dark) {
+    .panel { background: rgba(24,24,24,0.92); color: #eee; }
+    .legend-item span.swatch { border-color: #444; }
+  }
+  .panel h1 { font-size: 15px; margin: 0 0 6px; }
+  select { font-size: 15px; padding: 6px 8px; width: 100%; border-radius: 8px; border: 1px solid #999; }
+  .meta { font-size: 11px; opacity: 0.7; margin-top: 6px; }
+  .legend { position: absolute; bottom: 16px; left: 12px; z-index: 10; background: rgba(255,255,255,0.95);
+    border-radius: 10px; padding: 8px 10px; font-size: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.25); }
+  @media (prefers-color-scheme: dark) { .legend { background: rgba(24,24,24,0.92); color: #eee; } }
+  .legend-item { display: flex; align-items: center; gap: 6px; margin: 2px 0; }
+  .swatch { width: 12px; height: 12px; border-radius: 50%; display: inline-block; border: 1px solid rgba(0,0,0,0.2); }
+  .maplibregl-popup-content { font-size: 13px; }
+  .maplibregl-popup-content h3 { margin: 0 0 4px; font-size: 14px; }
+  .maplibregl-popup-content table { border-collapse: collapse; }
+  .maplibregl-popup-content td { padding: 1px 6px 1px 0; }
+</style>
+</head>
+<body>
+<div id="map"></div>
+<div class="panel">
+  <h1>🍄 Bolets Mallorca</h1>
+  <select id="species-select"></select>
+  <div class="meta" id="meta">Carregant dades...</div>
+</div>
+<div class="legend">
+  <div class="legend-item"><span class="swatch" style="background:#c53030"></span> Alta probabilitat</div>
+  <div class="legend-item"><span class="swatch" style="background:#dd9c2f"></span> Mitjana</div>
+  <div class="legend-item"><span class="swatch" style="background:#4a7c59"></span> Baixa</div>
+  <div class="legend-item"><span class="swatch" style="background:#9aa5ab"></span> Cap</div>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/pmtiles@3/dist/pmtiles.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

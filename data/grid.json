@@ -1,0 +1,2877 @@
+{
+  "generatedAt": "2026-09-15T13:28:04.348Z",
+  "cellCount": 319,
+  "cells": [
+    {
+      "id": "c0",
+      "lat": 39.29434,
+      "lon": 3.02473,
+      "elevation": 8,
+      "region": "migjorn",
+      "distToCoastKm": 0.3,
+      "forestType": "pinar_costaner"
+    },
+    {
+      "id": "c1",
+      "lat": 39.29434,
+      "lon": 3.06473,
+      "elevation": 60,
+      "region": "migjorn",
+      "distToCoastKm": 2.3,
+      "forestType": "pinar_costaner"
+    },
+    {
+      "id": "c2",
+      "lat": 39.32434,
+      "lon": 2.98473,
+      "elevation": 0,
+      "region": "migjorn",
+      "distToCoastKm": 0,
+      "forestType": "pinar_costaner"
+    },
+    {
+      "id": "c3",
+      "lat": 39.32434,
+      "lon": 3.02473,
+      "elevation": 13,
+      "region": "llevant_sud",
+      "distToCoastKm": 1.8,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c4",
+      "lat": 39.32434,
+      "lon": 3.06473,
+      "elevation": 43,
+      "region": "llevant_sud",
+      "distToCoastKm": 4.3,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c5",
+      "lat": 39.32434,
+      "lon": 3.10473,
+      "elevation": 49,
+      "region": "llevant_sud",
+      "distToCoastKm": 1.7,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c6",
+      "lat": 39.35434,
+      "lon": 2.98473,
+      "elevation": 8,
+      "region": "migjorn",
+      "distToCoastKm": 0.7,
+      "forestType": "pinar_costaner"
+    },
+    {
+      "id": "c7",
+      "lat": 39.35434,
+      "lon": 3.02473,
+      "elevation": 21,
+      "region": "llevant_sud",
+      "distToCoastKm": 3.5,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c8",
+      "lat": 39.35434,
+      "lon": 3.06473,
+      "elevation": 52,
+      "region": "llevant_sud",
+      "distToCoastKm": 6.5,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c9",
+      "lat": 39.35434,
+      "lon": 3.10473,
+      "elevation": 42,
+      "region": "llevant_sud",
+      "distToCoastKm": 4.4,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c10",
+      "lat": 39.35434,
+      "lon": 3.14473,
+      "elevation": 56,
+      "region": "llevant_sud",
+      "distToCoastKm": 2.7,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c11",
+      "lat": 39.35434,
+      "lon": 3.18473,
+      "elevation": 29,
+      "region": "llevant_sud",
+      "distToCoastKm": 0.4,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c12",
+      "lat": 39.38434,
+      "lon": 2.78473,
+      "elevation": 107,
+      "region": "migjorn",
+      "distToCoastKm": 1.1,
+      "forestType": "pinar_costaner"
+    },
+    {
+      "id": "c13",
+      "lat": 39.38434,
+      "lon": 2.82473,
+      "elevation": 64,
+      "region": "migjorn",
+      "distToCoastKm": 2.4,
+      "forestType": "pinar_costaner"
+    },
+    {
+      "id": "c14",
+      "lat": 39.38434,
+      "lon": 2.86473,
+      "elevation": 65,
+      "region": "migjorn",
+      "distToCoastKm": 2.3,
+      "forestType": "pinar_costaner"
+    },
+    {
+      "id": "c15",
+      "lat": 39.38434,
+      "lon": 2.90473,
+      "elevation": 40,
+      "region": "migjorn",
+      "distToCoastKm": 2.6,
+      "forestType": "pinar_costaner"
+    },
+    {
+      "id": "c16",
+      "lat": 39.38434,
+      "lon": 2.94473,
+      "elevation": 28,
+      "region": "migjorn",
+      "distToCoastKm": 2.3,
+      "forestType": "pinar_costaner"
+    },
+    {
+      "id": "c17",
+      "lat": 39.38434,
+      "lon": 2.98473,
+      "elevation": 8,
+      "region": "migjorn",
+      "distToCoastKm": 3.3,
+      "forestType": "garriga_marina"
+    },
+    {
+      "id": "c18",
+      "lat": 39.38434,
+      "lon": 3.02473,
+      "elevation": 5,
+      "region": "llevant_sud",
+      "distToCoastKm": 5.5,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c19",
+      "lat": 39.38434,
+      "lon": 3.06473,
+      "elevation": 60,
+      "region": "llevant_sud",
+      "distToCoastKm": 8.2,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c20",
+      "lat": 39.38434,
+      "lon": 3.10473,
+      "elevation": 69,
+      "region": "llevant_sud",
+      "distToCoastKm": 7,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c21",
+      "lat": 39.38434,
+      "lon": 3.14473,
+      "elevation": 112,
+      "region": "llevant_sud",
+      "distToCoastKm": 5.1,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c22",
+      "lat": 39.38434,
+      "lon": 3.18473,
+      "elevation": 63,
+      "region": "llevant_sud",
+      "distToCoastKm": 3.1,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c23",
+      "lat": 39.38434,
+      "lon": 3.22473,
+      "elevation": 32,
+      "region": "llevant_sud",
+      "distToCoastKm": 1.2,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c24",
+      "lat": 39.41434,
+      "lon": 2.74473,
+      "elevation": 120,
+      "region": "migjorn",
+      "distToCoastKm": 0.4,
+      "forestType": "pinar_costaner"
+    },
+    {
+      "id": "c25",
+      "lat": 39.41434,
+      "lon": 2.78473,
+      "elevation": 107,
+      "region": "migjorn",
+      "distToCoastKm": 3.5,
+      "forestType": "garriga_marina"
+    },
+    {
+      "id": "c26",
+      "lat": 39.41434,
+      "lon": 2.82473,
+      "elevation": 87,
+      "region": "migjorn",
+      "distToCoastKm": 5.5,
+      "forestType": "garriga_marina"
+    },
+    {
+      "id": "c27",
+      "lat": 39.41434,
+      "lon": 2.86473,
+      "elevation": 81,
+      "region": "migjorn",
+      "distToCoastKm": 5.5,
+      "forestType": "garriga_marina"
+    },
+    {
+      "id": "c28",
+      "lat": 39.41434,
+      "lon": 2.90473,
+      "elevation": 67,
+      "region": "migjorn",
+      "distToCoastKm": 5.7,
+      "forestType": "garriga_marina"
+    },
+    {
+      "id": "c29",
+      "lat": 39.41434,
+      "lon": 2.94473,
+      "elevation": 48,
+      "region": "migjorn",
+      "distToCoastKm": 5.6,
+      "forestType": "garriga_marina"
+    },
+    {
+      "id": "c30",
+      "lat": 39.41434,
+      "lon": 2.98473,
+      "elevation": 27,
+      "region": "migjorn",
+      "distToCoastKm": 6.2,
+      "forestType": "garriga_marina"
+    },
+    {
+      "id": "c31",
+      "lat": 39.41434,
+      "lon": 3.02473,
+      "elevation": 13,
+      "region": "llevant_sud",
+      "distToCoastKm": 8,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c32",
+      "lat": 39.41434,
+      "lon": 3.06473,
+      "elevation": 30,
+      "region": "llevant_sud",
+      "distToCoastKm": 10.3,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c33",
+      "lat": 39.41434,
+      "lon": 3.10473,
+      "elevation": 72,
+      "region": "llevant_sud",
+      "distToCoastKm": 9.9,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c34",
+      "lat": 39.41434,
+      "lon": 3.14473,
+      "elevation": 117,
+      "region": "llevant_sud",
+      "distToCoastKm": 7.9,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c35",
+      "lat": 39.41434,
+      "lon": 3.18473,
+      "elevation": 132,
+      "region": "llevant_sud",
+      "distToCoastKm": 5.6,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c36",
+      "lat": 39.41434,
+      "lon": 3.22473,
+      "elevation": 72,
+      "region": "llevant_sud",
+      "distToCoastKm": 2.8,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c37",
+      "lat": 39.41434,
+      "lon": 3.26473,
+      "elevation": 8,
+      "region": "llevant_sud",
+      "distToCoastKm": 0,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c38",
+      "lat": 39.44434,
+      "lon": 2.74473,
+      "elevation": 1,
+      "region": "migjorn",
+      "distToCoastKm": 0,
+      "forestType": "pinar_costaner"
+    },
+    {
+      "id": "c39",
+      "lat": 39.44434,
+      "lon": 2.78473,
+      "elevation": 123,
+      "region": "migjorn",
+      "distToCoastKm": 3.2,
+      "forestType": "garriga_marina"
+    },
+    {
+      "id": "c40",
+      "lat": 39.44434,
+      "lon": 2.82473,
+      "elevation": 109,
+      "region": "migjorn",
+      "distToCoastKm": 6.6,
+      "forestType": "garriga_marina"
+    },
+    {
+      "id": "c41",
+      "lat": 39.44434,
+      "lon": 2.86473,
+      "elevation": 105,
+      "region": "migjorn",
+      "distToCoastKm": 8.8,
+      "forestType": "garriga_marina"
+    },
+    {
+      "id": "c42",
+      "lat": 39.44434,
+      "lon": 2.90473,
+      "elevation": 98,
+      "region": "migjorn",
+      "distToCoastKm": 8.9,
+      "forestType": "garriga_marina"
+    },
+    {
+      "id": "c43",
+      "lat": 39.44434,
+      "lon": 2.94473,
+      "elevation": 82,
+      "region": "migjorn",
+      "distToCoastKm": 8.9,
+      "forestType": "garriga_marina"
+    },
+    {
+      "id": "c44",
+      "lat": 39.44434,
+      "lon": 2.98473,
+      "elevation": 59,
+      "region": "migjorn",
+      "distToCoastKm": 9.4,
+      "forestType": "garriga_marina"
+    },
+    {
+      "id": "c45",
+      "lat": 39.44434,
+      "lon": 3.02473,
+      "elevation": 33,
+      "region": "llevant_sud",
+      "distToCoastKm": 10.7,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c46",
+      "lat": 39.44434,
+      "lon": 3.06473,
+      "elevation": 54,
+      "region": "llevant_sud",
+      "distToCoastKm": 12.8,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c47",
+      "lat": 39.44434,
+      "lon": 3.10473,
+      "elevation": 69,
+      "region": "llevant_sud",
+      "distToCoastKm": 12.5,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c48",
+      "lat": 39.44434,
+      "lon": 3.14473,
+      "elevation": 126,
+      "region": "llevant_sud",
+      "distToCoastKm": 10.2,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c49",
+      "lat": 39.44434,
+      "lon": 3.18473,
+      "elevation": 283,
+      "region": "llevant_sud",
+      "distToCoastKm": 6.9,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c50",
+      "lat": 39.44434,
+      "lon": 3.22473,
+      "elevation": 157,
+      "region": "llevant_sud",
+      "distToCoastKm": 3.8,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c51",
+      "lat": 39.44434,
+      "lon": 3.26473,
+      "elevation": 31,
+      "region": "llevant_sud",
+      "distToCoastKm": 1.1,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c52",
+      "lat": 39.47434,
+      "lon": 2.50473,
+      "elevation": 127,
+      "region": "migjorn",
+      "distToCoastKm": 0.8,
+      "forestType": "pinar_costaner"
+    },
+    {
+      "id": "c53",
+      "lat": 39.47434,
+      "lon": 2.74473,
+      "elevation": 63,
+      "region": "migjorn",
+      "distToCoastKm": 1.3,
+      "forestType": "pinar_costaner"
+    },
+    {
+      "id": "c54",
+      "lat": 39.47434,
+      "lon": 2.78473,
+      "elevation": 114,
+      "region": "migjorn",
+      "distToCoastKm": 4.2,
+      "forestType": "garriga_marina"
+    },
+    {
+      "id": "c55",
+      "lat": 39.47434,
+      "lon": 2.82473,
+      "elevation": 124,
+      "region": "migjorn",
+      "distToCoastKm": 7,
+      "forestType": "garriga_marina"
+    },
+    {
+      "id": "c56",
+      "lat": 39.47434,
+      "lon": 2.86473,
+      "elevation": 117,
+      "region": "migjorn",
+      "distToCoastKm": 10.3,
+      "forestType": "garriga_marina"
+    },
+    {
+      "id": "c57",
+      "lat": 39.47434,
+      "lon": 2.90473,
+      "elevation": 123,
+      "region": "migjorn",
+      "distToCoastKm": 12.2,
+      "forestType": "garriga_marina"
+    },
+    {
+      "id": "c58",
+      "lat": 39.47434,
+      "lon": 2.94473,
+      "elevation": 141,
+      "region": "migjorn",
+      "distToCoastKm": 12.2,
+      "forestType": "garriga_marina"
+    },
+    {
+      "id": "c59",
+      "lat": 39.47434,
+      "lon": 2.98473,
+      "elevation": 109,
+      "region": "migjorn",
+      "distToCoastKm": 12.6,
+      "forestType": "garriga_marina"
+    },
+    {
+      "id": "c60",
+      "lat": 39.47434,
+      "lon": 3.02473,
+      "elevation": 127,
+      "region": "llevant_sud",
+      "distToCoastKm": 13.7,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c61",
+      "lat": 39.47434,
+      "lon": 3.06473,
+      "elevation": 82,
+      "region": "llevant_sud",
+      "distToCoastKm": 15.4,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c62",
+      "lat": 39.47434,
+      "lon": 3.10473,
+      "elevation": 75,
+      "region": "llevant_sud",
+      "distToCoastKm": 14.5,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c63",
+      "lat": 39.47434,
+      "lon": 3.14473,
+      "elevation": 98,
+      "region": "llevant_sud",
+      "distToCoastKm": 11.4,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c64",
+      "lat": 39.47434,
+      "lon": 3.18473,
+      "elevation": 143,
+      "region": "llevant_sud",
+      "distToCoastKm": 8.2,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c65",
+      "lat": 39.47434,
+      "lon": 3.22473,
+      "elevation": 109,
+      "region": "llevant_sud",
+      "distToCoastKm": 4.8,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c66",
+      "lat": 39.47434,
+      "lon": 3.26473,
+      "elevation": 72,
+      "region": "llevant_sud",
+      "distToCoastKm": 1.5,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c67",
+      "lat": 39.50434,
+      "lon": 2.46473,
+      "elevation": 35,
+      "region": "pla",
+      "distToCoastKm": 0.3,
+      "forestType": "pinar_costaner"
+    },
+    {
+      "id": "c68",
+      "lat": 39.50434,
+      "lon": 2.50473,
+      "elevation": 23,
+      "region": "pla",
+      "distToCoastKm": 2.4,
+      "forestType": "pinar_costaner"
+    },
+    {
+      "id": "c69",
+      "lat": 39.50434,
+      "lon": 2.78473,
+      "elevation": 68,
+      "region": "pla",
+      "distToCoastKm": 2.9,
+      "forestType": "pinar_costaner"
+    },
+    {
+      "id": "c70",
+      "lat": 39.50434,
+      "lon": 2.82473,
+      "elevation": 125,
+      "region": "pla",
+      "distToCoastKm": 6.3,
+      "forestType": "agricola_seca"
+    },
+    {
+      "id": "c71",
+      "lat": 39.50434,
+      "lon": 2.86473,
+      "elevation": 153,
+      "region": "pla",
+      "distToCoastKm": 9.7,
+      "forestType": "agricola_seca"
+    },
+    {
+      "id": "c72",
+      "lat": 39.50434,
+      "lon": 2.90473,
+      "elevation": 174,
+      "region": "pla",
+      "distToCoastKm": 13.2,
+      "forestType": "agricola_seca"
+    },
+    {
+      "id": "c73",
+      "lat": 39.50434,
+      "lon": 2.94473,
+      "elevation": 199,
+      "region": "pla",
+      "distToCoastKm": 15.6,
+      "forestType": "agricola_seca"
+    },
+    {
+      "id": "c74",
+      "lat": 39.50434,
+      "lon": 2.98473,
+      "elevation": 248,
+      "region": "pla",
+      "distToCoastKm": 15.9,
+      "forestType": "agricola_seca"
+    },
+    {
+      "id": "c75",
+      "lat": 39.50434,
+      "lon": 3.02473,
+      "elevation": 117,
+      "region": "llevant_sud",
+      "distToCoastKm": 16.8,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c76",
+      "lat": 39.50434,
+      "lon": 3.06473,
+      "elevation": 100,
+      "region": "llevant_sud",
+      "distToCoastKm": 18.2,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c77",
+      "lat": 39.50434,
+      "lon": 3.10473,
+      "elevation": 76,
+      "region": "llevant_sud",
+      "distToCoastKm": 15.6,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c78",
+      "lat": 39.50434,
+      "lon": 3.14473,
+      "elevation": 77,
+      "region": "llevant_sud",
+      "distToCoastKm": 12.3,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c79",
+      "lat": 39.50434,
+      "lon": 3.18473,
+      "elevation": 151,
+      "region": "llevant_sud",
+      "distToCoastKm": 9,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c80",
+      "lat": 39.50434,
+      "lon": 3.22473,
+      "elevation": 185,
+      "region": "llevant_sud",
+      "distToCoastKm": 5.7,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c81",
+      "lat": 39.50434,
+      "lon": 3.26473,
+      "elevation": 98,
+      "region": "llevant_sud",
+      "distToCoastKm": 2.6,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c82",
+      "lat": 39.53434,
+      "lon": 2.38473,
+      "elevation": 74,
+      "region": "pla",
+      "distToCoastKm": 0.1,
+      "forestType": "pinar_costaner"
+    },
+    {
+      "id": "c83",
+      "lat": 39.53434,
+      "lon": 2.42473,
+      "elevation": 43,
+      "region": "pla",
+      "distToCoastKm": 0.2,
+      "forestType": "pinar_costaner"
+    },
+    {
+      "id": "c84",
+      "lat": 39.53434,
+      "lon": 2.46473,
+      "elevation": 33,
+      "region": "pla",
+      "distToCoastKm": 0.6,
+      "forestType": "pinar_costaner"
+    },
+    {
+      "id": "c85",
+      "lat": 39.53434,
+      "lon": 2.50473,
+      "elevation": 54,
+      "region": "pla",
+      "distToCoastKm": 2.8,
+      "forestType": "pinar_costaner"
+    },
+    {
+      "id": "c86",
+      "lat": 39.53434,
+      "lon": 2.54473,
+      "elevation": 58,
+      "region": "pla",
+      "distToCoastKm": 0.9,
+      "forestType": "pinar_costaner"
+    },
+    {
+      "id": "c87",
+      "lat": 39.53434,
+      "lon": 2.58473,
+      "elevation": 50,
+      "region": "pla",
+      "distToCoastKm": 0.1,
+      "forestType": "pinar_costaner"
+    },
+    {
+      "id": "c88",
+      "lat": 39.53434,
+      "lon": 2.74473,
+      "elevation": 1,
+      "region": "pla",
+      "distToCoastKm": 1.4,
+      "forestType": "pinar_costaner"
+    },
+    {
+      "id": "c89",
+      "lat": 39.53434,
+      "lon": 2.78473,
+      "elevation": 65,
+      "region": "pla",
+      "distToCoastKm": 4,
+      "forestType": "agricola_seca"
+    },
+    {
+      "id": "c90",
+      "lat": 39.53434,
+      "lon": 2.82473,
+      "elevation": 149,
+      "region": "pla",
+      "distToCoastKm": 7,
+      "forestType": "agricola_seca"
+    },
+    {
+      "id": "c91",
+      "lat": 39.53434,
+      "lon": 2.86473,
+      "elevation": 206,
+      "region": "pla",
+      "distToCoastKm": 10.2,
+      "forestType": "agricola_seca"
+    },
+    {
+      "id": "c92",
+      "lat": 39.53434,
+      "lon": 2.90473,
+      "elevation": 255,
+      "region": "pla",
+      "distToCoastKm": 13.5,
+      "forestType": "agricola_seca"
+    },
+    {
+      "id": "c93",
+      "lat": 39.53434,
+      "lon": 2.94473,
+      "elevation": 252,
+      "region": "pla",
+      "distToCoastKm": 16.9,
+      "forestType": "agricola_seca"
+    },
+    {
+      "id": "c94",
+      "lat": 39.53434,
+      "lon": 2.98473,
+      "elevation": 176,
+      "region": "pla",
+      "distToCoastKm": 19.2,
+      "forestType": "agricola_seca"
+    },
+    {
+      "id": "c95",
+      "lat": 39.53434,
+      "lon": 3.02473,
+      "elevation": 143,
+      "region": "llevant_sud",
+      "distToCoastKm": 19.9,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c96",
+      "lat": 39.53434,
+      "lon": 3.06473,
+      "elevation": 114,
+      "region": "llevant_sud",
+      "distToCoastKm": 19.8,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c97",
+      "lat": 39.53434,
+      "lon": 3.10473,
+      "elevation": 91,
+      "region": "llevant_sud",
+      "distToCoastKm": 16.5,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c98",
+      "lat": 39.53434,
+      "lon": 3.14473,
+      "elevation": 78,
+      "region": "llevant_sud",
+      "distToCoastKm": 13.3,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c99",
+      "lat": 39.53434,
+      "lon": 3.18473,
+      "elevation": 91,
+      "region": "llevant_sud",
+      "distToCoastKm": 10.2,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c100",
+      "lat": 39.53434,
+      "lon": 3.22473,
+      "elevation": 172,
+      "region": "llevant_sud",
+      "distToCoastKm": 7.2,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c101",
+      "lat": 39.53434,
+      "lon": 3.26473,
+      "elevation": 74,
+      "region": "llevant_sud",
+      "distToCoastKm": 4.4,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c102",
+      "lat": 39.53434,
+      "lon": 3.30473,
+      "elevation": 44,
+      "region": "llevant_sud",
+      "distToCoastKm": 1.7,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c103",
+      "lat": 39.56434,
+      "lon": 2.38473,
+      "elevation": 118,
+      "region": "tramuntana",
+      "distToCoastKm": 1.8,
+      "forestType": "pinar_costaner"
+    },
+    {
+      "id": "c104",
+      "lat": 39.56434,
+      "lon": 2.42473,
+      "elevation": 109,
+      "region": "tramuntana",
+      "distToCoastKm": 2.9,
+      "forestType": "alzinar_baix"
+    },
+    {
+      "id": "c105",
+      "lat": 39.56434,
+      "lon": 2.46473,
+      "elevation": 105,
+      "region": "tramuntana",
+      "distToCoastKm": 3.2,
+      "forestType": "alzinar_baix"
+    },
+    {
+      "id": "c106",
+      "lat": 39.56434,
+      "lon": 2.50473,
+      "elevation": 115,
+      "region": "tramuntana",
+      "distToCoastKm": 5.3,
+      "forestType": "alzinar_baix"
+    },
+    {
+      "id": "c107",
+      "lat": 39.56434,
+      "lon": 2.54473,
+      "elevation": 284,
+      "region": "tramuntana",
+      "distToCoastKm": 3.9,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c108",
+      "lat": 39.56434,
+      "lon": 2.58473,
+      "elevation": 333,
+      "region": "tramuntana",
+      "distToCoastKm": 2,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c109",
+      "lat": 39.56434,
+      "lon": 2.62473,
+      "elevation": 34,
+      "region": "tramuntana",
+      "distToCoastKm": 0.3,
+      "forestType": "pinar_costaner"
+    },
+    {
+      "id": "c110",
+      "lat": 39.56434,
+      "lon": 2.66473,
+      "elevation": 7,
+      "region": "tramuntana",
+      "distToCoastKm": 0.3,
+      "forestType": "pinar_costaner"
+    },
+    {
+      "id": "c111",
+      "lat": 39.56434,
+      "lon": 2.70473,
+      "elevation": 7,
+      "region": "tramuntana",
+      "distToCoastKm": 1.9,
+      "forestType": "pinar_costaner"
+    },
+    {
+      "id": "c112",
+      "lat": 39.56434,
+      "lon": 2.74473,
+      "elevation": 2,
+      "region": "tramuntana",
+      "distToCoastKm": 3.9,
+      "forestType": "alzinar_baix"
+    },
+    {
+      "id": "c113",
+      "lat": 39.56434,
+      "lon": 2.78473,
+      "elevation": 10,
+      "region": "tramuntana",
+      "distToCoastKm": 6.1,
+      "forestType": "alzinar_baix"
+    },
+    {
+      "id": "c114",
+      "lat": 39.56434,
+      "lon": 2.82473,
+      "elevation": 118,
+      "region": "tramuntana",
+      "distToCoastKm": 8.8,
+      "forestType": "alzinar_baix"
+    },
+    {
+      "id": "c115",
+      "lat": 39.56434,
+      "lon": 2.86473,
+      "elevation": 169,
+      "region": "tramuntana",
+      "distToCoastKm": 11.6,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c116",
+      "lat": 39.56434,
+      "lon": 2.90473,
+      "elevation": 187,
+      "region": "tramuntana",
+      "distToCoastKm": 14.7,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c117",
+      "lat": 39.56434,
+      "lon": 2.94473,
+      "elevation": 143,
+      "region": "tramuntana",
+      "distToCoastKm": 17.8,
+      "forestType": "alzinar_baix"
+    },
+    {
+      "id": "c118",
+      "lat": 39.56434,
+      "lon": 2.98473,
+      "elevation": 142,
+      "region": "pla",
+      "distToCoastKm": 21,
+      "forestType": "agricola_seca"
+    },
+    {
+      "id": "c119",
+      "lat": 39.56434,
+      "lon": 3.02473,
+      "elevation": 152,
+      "region": "pla",
+      "distToCoastKm": 23.2,
+      "forestType": "agricola_seca"
+    },
+    {
+      "id": "c120",
+      "lat": 39.56434,
+      "lon": 3.06473,
+      "elevation": 113,
+      "region": "pla",
+      "distToCoastKm": 21,
+      "forestType": "agricola_seca"
+    },
+    {
+      "id": "c121",
+      "lat": 39.56434,
+      "lon": 3.10473,
+      "elevation": 79,
+      "region": "pla",
+      "distToCoastKm": 17.9,
+      "forestType": "agricola_seca"
+    },
+    {
+      "id": "c122",
+      "lat": 39.56434,
+      "lon": 3.14473,
+      "elevation": 55,
+      "region": "pla",
+      "distToCoastKm": 14.8,
+      "forestType": "agricola_seca"
+    },
+    {
+      "id": "c123",
+      "lat": 39.56434,
+      "lon": 3.18473,
+      "elevation": 72,
+      "region": "llevant_nord",
+      "distToCoastKm": 11.9,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c124",
+      "lat": 39.56434,
+      "lon": 3.22473,
+      "elevation": 91,
+      "region": "llevant_nord",
+      "distToCoastKm": 9.1,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c125",
+      "lat": 39.56434,
+      "lon": 3.26473,
+      "elevation": 62,
+      "region": "llevant_nord",
+      "distToCoastKm": 6.3,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c126",
+      "lat": 39.56434,
+      "lon": 3.30473,
+      "elevation": 71,
+      "region": "llevant_nord",
+      "distToCoastKm": 3.5,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c127",
+      "lat": 39.56434,
+      "lon": 3.34473,
+      "elevation": 24,
+      "region": "llevant_nord",
+      "distToCoastKm": 1.9,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c128",
+      "lat": 39.59434,
+      "lon": 2.38473,
+      "elevation": 277,
+      "region": "tramuntana",
+      "distToCoastKm": 2.1,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c129",
+      "lat": 39.59434,
+      "lon": 2.42473,
+      "elevation": 306,
+      "region": "tramuntana",
+      "distToCoastKm": 3.6,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c130",
+      "lat": 39.59434,
+      "lon": 2.46473,
+      "elevation": 355,
+      "region": "tramuntana",
+      "distToCoastKm": 5.4,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c131",
+      "lat": 39.59434,
+      "lon": 2.50473,
+      "elevation": 314,
+      "region": "tramuntana",
+      "distToCoastKm": 7.4,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c132",
+      "lat": 39.59434,
+      "lon": 2.54473,
+      "elevation": 341,
+      "region": "tramuntana",
+      "distToCoastKm": 6.8,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c133",
+      "lat": 39.59434,
+      "lon": 2.58473,
+      "elevation": 232,
+      "region": "tramuntana",
+      "distToCoastKm": 4.9,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c134",
+      "lat": 39.59434,
+      "lon": 2.62473,
+      "elevation": 62,
+      "region": "tramuntana",
+      "distToCoastKm": 3,
+      "forestType": "alzinar_baix"
+    },
+    {
+      "id": "c135",
+      "lat": 39.59434,
+      "lon": 2.66473,
+      "elevation": 36,
+      "region": "tramuntana",
+      "distToCoastKm": 3.4,
+      "forestType": "alzinar_baix"
+    },
+    {
+      "id": "c136",
+      "lat": 39.59434,
+      "lon": 2.70473,
+      "elevation": 37,
+      "region": "tramuntana",
+      "distToCoastKm": 4.6,
+      "forestType": "alzinar_baix"
+    },
+    {
+      "id": "c137",
+      "lat": 39.59434,
+      "lon": 2.74473,
+      "elevation": 55,
+      "region": "tramuntana",
+      "distToCoastKm": 6.6,
+      "forestType": "alzinar_baix"
+    },
+    {
+      "id": "c138",
+      "lat": 39.59434,
+      "lon": 2.78473,
+      "elevation": 52,
+      "region": "tramuntana",
+      "distToCoastKm": 8.6,
+      "forestType": "alzinar_baix"
+    },
+    {
+      "id": "c139",
+      "lat": 39.59434,
+      "lon": 2.82473,
+      "elevation": 123,
+      "region": "tramuntana",
+      "distToCoastKm": 10.9,
+      "forestType": "alzinar_baix"
+    },
+    {
+      "id": "c140",
+      "lat": 39.59434,
+      "lon": 2.86473,
+      "elevation": 143,
+      "region": "tramuntana",
+      "distToCoastKm": 13.5,
+      "forestType": "alzinar_baix"
+    },
+    {
+      "id": "c141",
+      "lat": 39.59434,
+      "lon": 2.90473,
+      "elevation": 166,
+      "region": "tramuntana",
+      "distToCoastKm": 16.3,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c142",
+      "lat": 39.59434,
+      "lon": 2.94473,
+      "elevation": 117,
+      "region": "tramuntana",
+      "distToCoastKm": 19.2,
+      "forestType": "alzinar_baix"
+    },
+    {
+      "id": "c143",
+      "lat": 39.59434,
+      "lon": 2.98473,
+      "elevation": 130,
+      "region": "pla",
+      "distToCoastKm": 22.3,
+      "forestType": "agricola_seca"
+    },
+    {
+      "id": "c144",
+      "lat": 39.59434,
+      "lon": 3.02473,
+      "elevation": 111,
+      "region": "pla",
+      "distToCoastKm": 22.2,
+      "forestType": "agricola_seca"
+    },
+    {
+      "id": "c145",
+      "lat": 39.59434,
+      "lon": 3.06473,
+      "elevation": 140,
+      "region": "pla",
+      "distToCoastKm": 20.4,
+      "forestType": "agricola_seca"
+    },
+    {
+      "id": "c146",
+      "lat": 39.59434,
+      "lon": 3.10473,
+      "elevation": 112,
+      "region": "pla",
+      "distToCoastKm": 18.8,
+      "forestType": "agricola_seca"
+    },
+    {
+      "id": "c147",
+      "lat": 39.59434,
+      "lon": 3.14473,
+      "elevation": 50,
+      "region": "pla",
+      "distToCoastKm": 16.6,
+      "forestType": "agricola_seca"
+    },
+    {
+      "id": "c148",
+      "lat": 39.59434,
+      "lon": 3.18473,
+      "elevation": 66,
+      "region": "llevant_nord",
+      "distToCoastKm": 13.8,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c149",
+      "lat": 39.59434,
+      "lon": 3.22473,
+      "elevation": 184,
+      "region": "llevant_nord",
+      "distToCoastKm": 11,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c150",
+      "lat": 39.59434,
+      "lon": 3.26473,
+      "elevation": 109,
+      "region": "llevant_nord",
+      "distToCoastKm": 8.3,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c151",
+      "lat": 39.59434,
+      "lon": 3.30473,
+      "elevation": 74,
+      "region": "llevant_nord",
+      "distToCoastKm": 6.4,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c152",
+      "lat": 39.59434,
+      "lon": 3.34473,
+      "elevation": 50,
+      "region": "llevant_nord",
+      "distToCoastKm": 3.4,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c153",
+      "lat": 39.59434,
+      "lon": 3.38473,
+      "elevation": 2,
+      "region": "llevant_nord",
+      "distToCoastKm": 0,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c154",
+      "lat": 39.62434,
+      "lon": 2.42473,
+      "elevation": 194,
+      "region": "tramuntana",
+      "distToCoastKm": 0.7,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c155",
+      "lat": 39.62434,
+      "lon": 2.46473,
+      "elevation": 274,
+      "region": "tramuntana",
+      "distToCoastKm": 3,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c156",
+      "lat": 39.62434,
+      "lon": 2.50473,
+      "elevation": 467,
+      "region": "tramuntana",
+      "distToCoastKm": 4.7,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c157",
+      "lat": 39.62434,
+      "lon": 2.54473,
+      "elevation": 215,
+      "region": "tramuntana",
+      "distToCoastKm": 7.1,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c158",
+      "lat": 39.62434,
+      "lon": 2.58473,
+      "elevation": 262,
+      "region": "tramuntana",
+      "distToCoastKm": 7.4,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c159",
+      "lat": 39.62434,
+      "lon": 2.62473,
+      "elevation": 123,
+      "region": "tramuntana",
+      "distToCoastKm": 6.3,
+      "forestType": "alzinar_baix"
+    },
+    {
+      "id": "c160",
+      "lat": 39.62434,
+      "lon": 2.66473,
+      "elevation": 63,
+      "region": "tramuntana",
+      "distToCoastKm": 6.5,
+      "forestType": "alzinar_baix"
+    },
+    {
+      "id": "c161",
+      "lat": 39.62434,
+      "lon": 2.70473,
+      "elevation": 64,
+      "region": "tramuntana",
+      "distToCoastKm": 7.5,
+      "forestType": "alzinar_baix"
+    },
+    {
+      "id": "c162",
+      "lat": 39.62434,
+      "lon": 2.74473,
+      "elevation": 100,
+      "region": "tramuntana",
+      "distToCoastKm": 9.3,
+      "forestType": "alzinar_baix"
+    },
+    {
+      "id": "c163",
+      "lat": 39.62434,
+      "lon": 2.78473,
+      "elevation": 132,
+      "region": "tramuntana",
+      "distToCoastKm": 11.4,
+      "forestType": "alzinar_baix"
+    },
+    {
+      "id": "c164",
+      "lat": 39.62434,
+      "lon": 2.82473,
+      "elevation": 169,
+      "region": "tramuntana",
+      "distToCoastKm": 13.4,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c165",
+      "lat": 39.62434,
+      "lon": 2.86473,
+      "elevation": 118,
+      "region": "tramuntana",
+      "distToCoastKm": 15.7,
+      "forestType": "alzinar_baix"
+    },
+    {
+      "id": "c166",
+      "lat": 39.62434,
+      "lon": 2.90473,
+      "elevation": 122,
+      "region": "tramuntana",
+      "distToCoastKm": 18.3,
+      "forestType": "alzinar_baix"
+    },
+    {
+      "id": "c167",
+      "lat": 39.62434,
+      "lon": 2.94473,
+      "elevation": 132,
+      "region": "tramuntana",
+      "distToCoastKm": 21,
+      "forestType": "alzinar_baix"
+    },
+    {
+      "id": "c168",
+      "lat": 39.62434,
+      "lon": 2.98473,
+      "elevation": 169,
+      "region": "pla",
+      "distToCoastKm": 21.5,
+      "forestType": "agricola_seca"
+    },
+    {
+      "id": "c169",
+      "lat": 39.62434,
+      "lon": 3.02473,
+      "elevation": 94,
+      "region": "pla",
+      "distToCoastKm": 19.4,
+      "forestType": "agricola_seca"
+    },
+    {
+      "id": "c170",
+      "lat": 39.62434,
+      "lon": 3.06473,
+      "elevation": 153,
+      "region": "pla",
+      "distToCoastKm": 17.5,
+      "forestType": "agricola_seca"
+    },
+    {
+      "id": "c171",
+      "lat": 39.62434,
+      "lon": 3.10473,
+      "elevation": 90,
+      "region": "pla",
+      "distToCoastKm": 15.9,
+      "forestType": "agricola_seca"
+    },
+    {
+      "id": "c172",
+      "lat": 39.62434,
+      "lon": 3.14473,
+      "elevation": 158,
+      "region": "pla",
+      "distToCoastKm": 14.2,
+      "forestType": "agricola_seca"
+    },
+    {
+      "id": "c173",
+      "lat": 39.62434,
+      "lon": 3.18473,
+      "elevation": 152,
+      "region": "llevant_nord",
+      "distToCoastKm": 12.8,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c174",
+      "lat": 39.62434,
+      "lon": 3.22473,
+      "elevation": 172,
+      "region": "llevant_nord",
+      "distToCoastKm": 11.9,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c175",
+      "lat": 39.62434,
+      "lon": 3.26473,
+      "elevation": 138,
+      "region": "llevant_nord",
+      "distToCoastKm": 10.7,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c176",
+      "lat": 39.62434,
+      "lon": 3.30473,
+      "elevation": 104,
+      "region": "llevant_nord",
+      "distToCoastKm": 7.4,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c177",
+      "lat": 39.62434,
+      "lon": 3.34473,
+      "elevation": 107,
+      "region": "llevant_nord",
+      "distToCoastKm": 4.1,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c178",
+      "lat": 39.62434,
+      "lon": 3.38473,
+      "elevation": 12,
+      "region": "llevant_nord",
+      "distToCoastKm": 0.8,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c179",
+      "lat": 39.65434,
+      "lon": 2.46473,
+      "elevation": 0,
+      "region": "tramuntana",
+      "distToCoastKm": 0,
+      "forestType": "pinar_costaner"
+    },
+    {
+      "id": "c180",
+      "lat": 39.65434,
+      "lon": 2.50473,
+      "elevation": 735,
+      "region": "tramuntana",
+      "distToCoastKm": 2.4,
+      "forestType": "alzinar_muntanya"
+    },
+    {
+      "id": "c181",
+      "lat": 39.65434,
+      "lon": 2.54473,
+      "elevation": 506,
+      "region": "tramuntana",
+      "distToCoastKm": 4.7,
+      "forestType": "alzinar_muntanya"
+    },
+    {
+      "id": "c182",
+      "lat": 39.65434,
+      "lon": 2.58473,
+      "elevation": 241,
+      "region": "tramuntana",
+      "distToCoastKm": 5.7,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c183",
+      "lat": 39.65434,
+      "lon": 2.62473,
+      "elevation": 172,
+      "region": "tramuntana",
+      "distToCoastKm": 7.6,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c184",
+      "lat": 39.65434,
+      "lon": 2.66473,
+      "elevation": 94,
+      "region": "tramuntana",
+      "distToCoastKm": 9.6,
+      "forestType": "alzinar_baix"
+    },
+    {
+      "id": "c185",
+      "lat": 39.65434,
+      "lon": 2.70473,
+      "elevation": 109,
+      "region": "tramuntana",
+      "distToCoastKm": 10.6,
+      "forestType": "alzinar_baix"
+    },
+    {
+      "id": "c186",
+      "lat": 39.65434,
+      "lon": 2.74473,
+      "elevation": 125,
+      "region": "tramuntana",
+      "distToCoastKm": 12.1,
+      "forestType": "alzinar_baix"
+    },
+    {
+      "id": "c187",
+      "lat": 39.65434,
+      "lon": 2.78473,
+      "elevation": 131,
+      "region": "tramuntana",
+      "distToCoastKm": 14,
+      "forestType": "alzinar_baix"
+    },
+    {
+      "id": "c188",
+      "lat": 39.65434,
+      "lon": 2.82473,
+      "elevation": 125,
+      "region": "tramuntana",
+      "distToCoastKm": 16.1,
+      "forestType": "alzinar_baix"
+    },
+    {
+      "id": "c189",
+      "lat": 39.65434,
+      "lon": 2.86473,
+      "elevation": 106,
+      "region": "tramuntana",
+      "distToCoastKm": 18.1,
+      "forestType": "alzinar_baix"
+    },
+    {
+      "id": "c190",
+      "lat": 39.65434,
+      "lon": 2.90473,
+      "elevation": 89,
+      "region": "tramuntana",
+      "distToCoastKm": 20.5,
+      "forestType": "alzinar_baix"
+    },
+    {
+      "id": "c191",
+      "lat": 39.65434,
+      "lon": 2.94473,
+      "elevation": 119,
+      "region": "tramuntana",
+      "distToCoastKm": 21.7,
+      "forestType": "alzinar_baix"
+    },
+    {
+      "id": "c192",
+      "lat": 39.65434,
+      "lon": 2.98473,
+      "elevation": 135,
+      "region": "pla",
+      "distToCoastKm": 19.1,
+      "forestType": "agricola_seca"
+    },
+    {
+      "id": "c193",
+      "lat": 39.65434,
+      "lon": 3.02473,
+      "elevation": 150,
+      "region": "pla",
+      "distToCoastKm": 16.7,
+      "forestType": "agricola_seca"
+    },
+    {
+      "id": "c194",
+      "lat": 39.65434,
+      "lon": 3.06473,
+      "elevation": 105,
+      "region": "pla",
+      "distToCoastKm": 14.7,
+      "forestType": "agricola_seca"
+    },
+    {
+      "id": "c195",
+      "lat": 39.65434,
+      "lon": 3.10473,
+      "elevation": 89,
+      "region": "pla",
+      "distToCoastKm": 12.9,
+      "forestType": "agricola_seca"
+    },
+    {
+      "id": "c196",
+      "lat": 39.65434,
+      "lon": 3.14473,
+      "elevation": 104,
+      "region": "pla",
+      "distToCoastKm": 11.3,
+      "forestType": "agricola_seca"
+    },
+    {
+      "id": "c197",
+      "lat": 39.65434,
+      "lon": 3.18473,
+      "elevation": 139,
+      "region": "llevant_nord",
+      "distToCoastKm": 9.7,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c198",
+      "lat": 39.65434,
+      "lon": 3.22473,
+      "elevation": 130,
+      "region": "llevant_nord",
+      "distToCoastKm": 8.6,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c199",
+      "lat": 39.65434,
+      "lon": 3.26473,
+      "elevation": 261,
+      "region": "llevant_nord",
+      "distToCoastKm": 8.4,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c200",
+      "lat": 39.65434,
+      "lon": 3.30473,
+      "elevation": 165,
+      "region": "llevant_nord",
+      "distToCoastKm": 8.4,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c201",
+      "lat": 39.65434,
+      "lon": 3.34473,
+      "elevation": 111,
+      "region": "llevant_nord",
+      "distToCoastKm": 5.3,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c202",
+      "lat": 39.65434,
+      "lon": 3.38473,
+      "elevation": 68,
+      "region": "llevant_nord",
+      "distToCoastKm": 2.6,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c203",
+      "lat": 39.65434,
+      "lon": 3.42473,
+      "elevation": 58,
+      "region": "llevant_nord",
+      "distToCoastKm": 1.2,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c204",
+      "lat": 39.68434,
+      "lon": 2.50473,
+      "elevation": 150,
+      "region": "tramuntana",
+      "distToCoastKm": 0.2,
+      "forestType": "pinar_costaner"
+    },
+    {
+      "id": "c205",
+      "lat": 39.68434,
+      "lon": 2.54473,
+      "elevation": 294,
+      "region": "tramuntana",
+      "distToCoastKm": 1.6,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c206",
+      "lat": 39.68434,
+      "lon": 2.58473,
+      "elevation": 376,
+      "region": "tramuntana",
+      "distToCoastKm": 2.9,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c207",
+      "lat": 39.68434,
+      "lon": 2.62473,
+      "elevation": 561,
+      "region": "tramuntana",
+      "distToCoastKm": 4.9,
+      "forestType": "alzinar_muntanya"
+    },
+    {
+      "id": "c208",
+      "lat": 39.68434,
+      "lon": 2.66473,
+      "elevation": 258,
+      "region": "tramuntana",
+      "distToCoastKm": 7.5,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c209",
+      "lat": 39.68434,
+      "lon": 2.70473,
+      "elevation": 183,
+      "region": "tramuntana",
+      "distToCoastKm": 10,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c210",
+      "lat": 39.68434,
+      "lon": 2.74473,
+      "elevation": 254,
+      "region": "tramuntana",
+      "distToCoastKm": 12,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c211",
+      "lat": 39.68434,
+      "lon": 2.78473,
+      "elevation": 203,
+      "region": "tramuntana",
+      "distToCoastKm": 14.2,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c212",
+      "lat": 39.68434,
+      "lon": 2.82473,
+      "elevation": 150,
+      "region": "tramuntana",
+      "distToCoastKm": 16.3,
+      "forestType": "alzinar_baix"
+    },
+    {
+      "id": "c213",
+      "lat": 39.68434,
+      "lon": 2.86473,
+      "elevation": 114,
+      "region": "tramuntana",
+      "distToCoastKm": 18.6,
+      "forestType": "alzinar_baix"
+    },
+    {
+      "id": "c214",
+      "lat": 39.68434,
+      "lon": 2.90473,
+      "elevation": 101,
+      "region": "tramuntana",
+      "distToCoastKm": 20.3,
+      "forestType": "alzinar_baix"
+    },
+    {
+      "id": "c215",
+      "lat": 39.68434,
+      "lon": 2.94473,
+      "elevation": 71,
+      "region": "tramuntana",
+      "distToCoastKm": 19.6,
+      "forestType": "alzinar_baix"
+    },
+    {
+      "id": "c216",
+      "lat": 39.68434,
+      "lon": 2.98473,
+      "elevation": 61,
+      "region": "pla",
+      "distToCoastKm": 16.9,
+      "forestType": "agricola_seca"
+    },
+    {
+      "id": "c217",
+      "lat": 39.68434,
+      "lon": 3.02473,
+      "elevation": 103,
+      "region": "pla",
+      "distToCoastKm": 14.3,
+      "forestType": "agricola_seca"
+    },
+    {
+      "id": "c218",
+      "lat": 39.68434,
+      "lon": 3.06473,
+      "elevation": 67,
+      "region": "pla",
+      "distToCoastKm": 12,
+      "forestType": "agricola_seca"
+    },
+    {
+      "id": "c219",
+      "lat": 39.68434,
+      "lon": 3.10473,
+      "elevation": 72,
+      "region": "pla",
+      "distToCoastKm": 10.1,
+      "forestType": "agricola_seca"
+    },
+    {
+      "id": "c220",
+      "lat": 39.68434,
+      "lon": 3.14473,
+      "elevation": 55,
+      "region": "pla",
+      "distToCoastKm": 8.4,
+      "forestType": "agricola_seca"
+    },
+    {
+      "id": "c221",
+      "lat": 39.68434,
+      "lon": 3.18473,
+      "elevation": 57,
+      "region": "llevant_nord",
+      "distToCoastKm": 6.8,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c222",
+      "lat": 39.68434,
+      "lon": 3.22473,
+      "elevation": 72,
+      "region": "llevant_nord",
+      "distToCoastKm": 5.4,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c223",
+      "lat": 39.68434,
+      "lon": 3.26473,
+      "elevation": 165,
+      "region": "llevant_nord",
+      "distToCoastKm": 5.1,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c224",
+      "lat": 39.68434,
+      "lon": 3.30473,
+      "elevation": 202,
+      "region": "llevant_nord",
+      "distToCoastKm": 6.3,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c225",
+      "lat": 39.68434,
+      "lon": 3.34473,
+      "elevation": 114,
+      "region": "llevant_nord",
+      "distToCoastKm": 7.4,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c226",
+      "lat": 39.68434,
+      "lon": 3.38473,
+      "elevation": 86,
+      "region": "llevant_nord",
+      "distToCoastKm": 5.6,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c227",
+      "lat": 39.68434,
+      "lon": 3.42473,
+      "elevation": 75,
+      "region": "llevant_nord",
+      "distToCoastKm": 2.4,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c228",
+      "lat": 39.71434,
+      "lon": 2.58473,
+      "elevation": 103,
+      "region": "tramuntana",
+      "distToCoastKm": 0.2,
+      "forestType": "pinar_costaner"
+    },
+    {
+      "id": "c229",
+      "lat": 39.71434,
+      "lon": 2.62473,
+      "elevation": 514,
+      "region": "tramuntana",
+      "distToCoastKm": 2.7,
+      "forestType": "alzinar_muntanya"
+    },
+    {
+      "id": "c230",
+      "lat": 39.71434,
+      "lon": 2.66473,
+      "elevation": 835,
+      "region": "tramuntana",
+      "distToCoastKm": 5.2,
+      "forestType": "alzinar_muntanya"
+    },
+    {
+      "id": "c231",
+      "lat": 39.71434,
+      "lon": 2.70473,
+      "elevation": 556,
+      "region": "tramuntana",
+      "distToCoastKm": 7.3,
+      "forestType": "alzinar_muntanya"
+    },
+    {
+      "id": "c232",
+      "lat": 39.71434,
+      "lon": 2.74473,
+      "elevation": 488,
+      "region": "tramuntana",
+      "distToCoastKm": 9.5,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c233",
+      "lat": 39.71434,
+      "lon": 2.78473,
+      "elevation": 468,
+      "region": "tramuntana",
+      "distToCoastKm": 11.5,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c234",
+      "lat": 39.71434,
+      "lon": 2.82473,
+      "elevation": 222,
+      "region": "tramuntana",
+      "distToCoastKm": 14,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c235",
+      "lat": 39.71434,
+      "lon": 2.86473,
+      "elevation": 138,
+      "region": "tramuntana",
+      "distToCoastKm": 15.8,
+      "forestType": "alzinar_baix"
+    },
+    {
+      "id": "c236",
+      "lat": 39.71434,
+      "lon": 2.90473,
+      "elevation": 128,
+      "region": "tramuntana",
+      "distToCoastKm": 17.2,
+      "forestType": "alzinar_baix"
+    },
+    {
+      "id": "c237",
+      "lat": 39.71434,
+      "lon": 2.94473,
+      "elevation": 88,
+      "region": "tramuntana",
+      "distToCoastKm": 17.8,
+      "forestType": "alzinar_baix"
+    },
+    {
+      "id": "c238",
+      "lat": 39.71434,
+      "lon": 2.98473,
+      "elevation": 48,
+      "region": "pla",
+      "distToCoastKm": 14.9,
+      "forestType": "agricola_seca"
+    },
+    {
+      "id": "c239",
+      "lat": 39.71434,
+      "lon": 3.02473,
+      "elevation": 50,
+      "region": "pla",
+      "distToCoastKm": 12.1,
+      "forestType": "agricola_seca"
+    },
+    {
+      "id": "c240",
+      "lat": 39.71434,
+      "lon": 3.06473,
+      "elevation": 90,
+      "region": "pla",
+      "distToCoastKm": 9.5,
+      "forestType": "agricola_seca"
+    },
+    {
+      "id": "c241",
+      "lat": 39.71434,
+      "lon": 3.10473,
+      "elevation": 51,
+      "region": "pla",
+      "distToCoastKm": 7.2,
+      "forestType": "agricola_seca"
+    },
+    {
+      "id": "c242",
+      "lat": 39.71434,
+      "lon": 3.14473,
+      "elevation": 90,
+      "region": "pla",
+      "distToCoastKm": 5.4,
+      "forestType": "agricola_seca"
+    },
+    {
+      "id": "c243",
+      "lat": 39.71434,
+      "lon": 3.18473,
+      "elevation": 35,
+      "region": "llevant_nord",
+      "distToCoastKm": 3.8,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c244",
+      "lat": 39.71434,
+      "lon": 3.22473,
+      "elevation": 40,
+      "region": "llevant_nord",
+      "distToCoastKm": 2.2,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c245",
+      "lat": 39.71434,
+      "lon": 3.26473,
+      "elevation": 65,
+      "region": "llevant_nord",
+      "distToCoastKm": 1.9,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c246",
+      "lat": 39.71434,
+      "lon": 3.30473,
+      "elevation": 276,
+      "region": "llevant_nord",
+      "distToCoastKm": 3.3,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c247",
+      "lat": 39.71434,
+      "lon": 3.34473,
+      "elevation": 168,
+      "region": "llevant_nord",
+      "distToCoastKm": 5.1,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c248",
+      "lat": 39.71434,
+      "lon": 3.38473,
+      "elevation": 234,
+      "region": "llevant_nord",
+      "distToCoastKm": 4.9,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c249",
+      "lat": 39.71434,
+      "lon": 3.42473,
+      "elevation": 47,
+      "region": "llevant_nord",
+      "distToCoastKm": 2.6,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c250",
+      "lat": 39.71434,
+      "lon": 3.46473,
+      "elevation": 21,
+      "region": "llevant_nord",
+      "distToCoastKm": 0.4,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c251",
+      "lat": 39.74434,
+      "lon": 2.62473,
+      "elevation": 239,
+      "region": "tramuntana",
+      "distToCoastKm": 0.4,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c252",
+      "lat": 39.74434,
+      "lon": 2.66473,
+      "elevation": 771,
+      "region": "tramuntana",
+      "distToCoastKm": 2.6,
+      "forestType": "alzinar_muntanya"
+    },
+    {
+      "id": "c253",
+      "lat": 39.74434,
+      "lon": 2.70473,
+      "elevation": 432,
+      "region": "tramuntana",
+      "distToCoastKm": 4.7,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c254",
+      "lat": 39.74434,
+      "lon": 2.74473,
+      "elevation": 917,
+      "region": "tramuntana",
+      "distToCoastKm": 6.8,
+      "forestType": "alzinar_muntanya"
+    },
+    {
+      "id": "c255",
+      "lat": 39.74434,
+      "lon": 2.78473,
+      "elevation": 540,
+      "region": "tramuntana",
+      "distToCoastKm": 9.3,
+      "forestType": "alzinar_muntanya"
+    },
+    {
+      "id": "c256",
+      "lat": 39.74434,
+      "lon": 2.82473,
+      "elevation": 297,
+      "region": "tramuntana",
+      "distToCoastKm": 11.1,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c257",
+      "lat": 39.74434,
+      "lon": 2.86473,
+      "elevation": 364,
+      "region": "tramuntana",
+      "distToCoastKm": 12.9,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c258",
+      "lat": 39.74434,
+      "lon": 2.90473,
+      "elevation": 138,
+      "region": "tramuntana",
+      "distToCoastKm": 14,
+      "forestType": "alzinar_baix"
+    },
+    {
+      "id": "c259",
+      "lat": 39.74434,
+      "lon": 2.94473,
+      "elevation": 88,
+      "region": "tramuntana",
+      "distToCoastKm": 15.6,
+      "forestType": "alzinar_baix"
+    },
+    {
+      "id": "c260",
+      "lat": 39.74434,
+      "lon": 2.98473,
+      "elevation": 54,
+      "region": "pla",
+      "distToCoastKm": 13.2,
+      "forestType": "agricola_seca"
+    },
+    {
+      "id": "c261",
+      "lat": 39.74434,
+      "lon": 3.02473,
+      "elevation": 32,
+      "region": "pla",
+      "distToCoastKm": 10.2,
+      "forestType": "agricola_seca"
+    },
+    {
+      "id": "c262",
+      "lat": 39.74434,
+      "lon": 3.06473,
+      "elevation": 47,
+      "region": "pla",
+      "distToCoastKm": 7.4,
+      "forestType": "agricola_seca"
+    },
+    {
+      "id": "c263",
+      "lat": 39.74434,
+      "lon": 3.10473,
+      "elevation": 43,
+      "region": "pla",
+      "distToCoastKm": 4.8,
+      "forestType": "agricola_seca"
+    },
+    {
+      "id": "c264",
+      "lat": 39.74434,
+      "lon": 3.14473,
+      "elevation": 40,
+      "region": "pla",
+      "distToCoastKm": 2.6,
+      "forestType": "pinar_costaner"
+    },
+    {
+      "id": "c265",
+      "lat": 39.74434,
+      "lon": 3.18473,
+      "elevation": 34,
+      "region": "llevant_nord",
+      "distToCoastKm": 1,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c266",
+      "lat": 39.74434,
+      "lon": 3.30473,
+      "elevation": 35,
+      "region": "llevant_nord",
+      "distToCoastKm": 0.5,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c267",
+      "lat": 39.74434,
+      "lon": 3.34473,
+      "elevation": 310,
+      "region": "llevant_nord",
+      "distToCoastKm": 2.2,
+      "forestType": "alzinar_muntanya"
+    },
+    {
+      "id": "c268",
+      "lat": 39.74434,
+      "lon": 3.38473,
+      "elevation": 119,
+      "region": "llevant_nord",
+      "distToCoastKm": 2.2,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c269",
+      "lat": 39.74434,
+      "lon": 3.42473,
+      "elevation": 62,
+      "region": "llevant_nord",
+      "distToCoastKm": 0.6,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c270",
+      "lat": 39.77434,
+      "lon": 2.66473,
+      "elevation": 0,
+      "region": "tramuntana",
+      "distToCoastKm": 0,
+      "forestType": "pinar_costaner"
+    },
+    {
+      "id": "c271",
+      "lat": 39.77434,
+      "lon": 2.70473,
+      "elevation": 13,
+      "region": "tramuntana",
+      "distToCoastKm": 2.1,
+      "forestType": "alzinar_baix"
+    },
+    {
+      "id": "c272",
+      "lat": 39.77434,
+      "lon": 2.74473,
+      "elevation": 253,
+      "region": "tramuntana",
+      "distToCoastKm": 4.6,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c273",
+      "lat": 39.77434,
+      "lon": 2.78473,
+      "elevation": 1021,
+      "region": "tramuntana",
+      "distToCoastKm": 6.6,
+      "forestType": "alzinar_muntanya"
+    },
+    {
+      "id": "c274",
+      "lat": 39.77434,
+      "lon": 2.82473,
+      "elevation": 740,
+      "region": "tramuntana",
+      "distToCoastKm": 8.4,
+      "forestType": "alzinar_muntanya"
+    },
+    {
+      "id": "c275",
+      "lat": 39.77434,
+      "lon": 2.86473,
+      "elevation": 411,
+      "region": "tramuntana",
+      "distToCoastKm": 9.8,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c276",
+      "lat": 39.77434,
+      "lon": 2.90473,
+      "elevation": 242,
+      "region": "tramuntana",
+      "distToCoastKm": 11,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c277",
+      "lat": 39.77434,
+      "lon": 2.94473,
+      "elevation": 117,
+      "region": "tramuntana",
+      "distToCoastKm": 12.9,
+      "forestType": "alzinar_baix"
+    },
+    {
+      "id": "c278",
+      "lat": 39.77434,
+      "lon": 2.98473,
+      "elevation": 76,
+      "region": "pla",
+      "distToCoastKm": 12,
+      "forestType": "agricola_seca"
+    },
+    {
+      "id": "c279",
+      "lat": 39.77434,
+      "lon": 3.02473,
+      "elevation": 19,
+      "region": "pla",
+      "distToCoastKm": 8.8,
+      "forestType": "agricola_seca"
+    },
+    {
+      "id": "c280",
+      "lat": 39.77434,
+      "lon": 3.06473,
+      "elevation": 4,
+      "region": "pla",
+      "distToCoastKm": 5.6,
+      "forestType": "agricola_seca"
+    },
+    {
+      "id": "c281",
+      "lat": 39.77434,
+      "lon": 3.10473,
+      "elevation": 1,
+      "region": "pla",
+      "distToCoastKm": 2.7,
+      "forestType": "pinar_costaner"
+    },
+    {
+      "id": "c282",
+      "lat": 39.77434,
+      "lon": 3.34473,
+      "elevation": 205,
+      "region": "llevant_nord",
+      "distToCoastKm": 0.8,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c283",
+      "lat": 39.80434,
+      "lon": 2.70473,
+      "elevation": 136,
+      "region": "tramuntana",
+      "distToCoastKm": 0.5,
+      "forestType": "pinar_costaner"
+    },
+    {
+      "id": "c284",
+      "lat": 39.80434,
+      "lon": 2.74473,
+      "elevation": 515,
+      "region": "tramuntana",
+      "distToCoastKm": 2.5,
+      "forestType": "alzinar_muntanya"
+    },
+    {
+      "id": "c285",
+      "lat": 39.80434,
+      "lon": 2.78473,
+      "elevation": 1141,
+      "region": "tramuntana",
+      "distToCoastKm": 3.7,
+      "forestType": "alzinar_muntanya"
+    },
+    {
+      "id": "c286",
+      "lat": 39.80434,
+      "lon": 2.82473,
+      "elevation": 693,
+      "region": "tramuntana",
+      "distToCoastKm": 5.6,
+      "forestType": "alzinar_muntanya"
+    },
+    {
+      "id": "c287",
+      "lat": 39.80434,
+      "lon": 2.86473,
+      "elevation": 1166,
+      "region": "tramuntana",
+      "distToCoastKm": 6.6,
+      "forestType": "alzinar_muntanya"
+    },
+    {
+      "id": "c288",
+      "lat": 39.80434,
+      "lon": 2.90473,
+      "elevation": 462,
+      "region": "tramuntana",
+      "distToCoastKm": 8.2,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c289",
+      "lat": 39.80434,
+      "lon": 2.94473,
+      "elevation": 433,
+      "region": "tramuntana",
+      "distToCoastKm": 10.1,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c290",
+      "lat": 39.80434,
+      "lon": 2.98473,
+      "elevation": 171,
+      "region": "pla",
+      "distToCoastKm": 11.3,
+      "forestType": "agricola_seca"
+    },
+    {
+      "id": "c291",
+      "lat": 39.80434,
+      "lon": 3.02473,
+      "elevation": 18,
+      "region": "pla",
+      "distToCoastKm": 8,
+      "forestType": "agricola_seca"
+    },
+    {
+      "id": "c292",
+      "lat": 39.80434,
+      "lon": 3.06473,
+      "elevation": 14,
+      "region": "pla",
+      "distToCoastKm": 4.6,
+      "forestType": "agricola_seca"
+    },
+    {
+      "id": "c293",
+      "lat": 39.80434,
+      "lon": 3.10473,
+      "elevation": 0,
+      "region": "pla",
+      "distToCoastKm": 1.3,
+      "forestType": "pinar_costaner"
+    },
+    {
+      "id": "c294",
+      "lat": 39.83434,
+      "lon": 2.78473,
+      "elevation": 185,
+      "region": "tramuntana",
+      "distToCoastKm": 1,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c295",
+      "lat": 39.83434,
+      "lon": 2.82473,
+      "elevation": 507,
+      "region": "tramuntana",
+      "distToCoastKm": 2.5,
+      "forestType": "alzinar_muntanya"
+    },
+    {
+      "id": "c296",
+      "lat": 39.83434,
+      "lon": 2.86473,
+      "elevation": 334,
+      "region": "tramuntana",
+      "distToCoastKm": 3.5,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c297",
+      "lat": 39.83434,
+      "lon": 2.90473,
+      "elevation": 665,
+      "region": "tramuntana",
+      "distToCoastKm": 5.5,
+      "forestType": "alzinar_muntanya"
+    },
+    {
+      "id": "c298",
+      "lat": 39.83434,
+      "lon": 2.94473,
+      "elevation": 571,
+      "region": "tramuntana",
+      "distToCoastKm": 7.3,
+      "forestType": "alzinar_muntanya"
+    },
+    {
+      "id": "c299",
+      "lat": 39.83434,
+      "lon": 2.98473,
+      "elevation": 393,
+      "region": "pla",
+      "distToCoastKm": 8.2,
+      "forestType": "agricola_seca"
+    },
+    {
+      "id": "c300",
+      "lat": 39.83434,
+      "lon": 3.02473,
+      "elevation": 57,
+      "region": "pla",
+      "distToCoastKm": 6.6,
+      "forestType": "agricola_seca"
+    },
+    {
+      "id": "c301",
+      "lat": 39.83434,
+      "lon": 3.06473,
+      "elevation": 20,
+      "region": "pla",
+      "distToCoastKm": 4.1,
+      "forestType": "agricola_seca"
+    },
+    {
+      "id": "c302",
+      "lat": 39.83434,
+      "lon": 3.10473,
+      "elevation": 4,
+      "region": "pla",
+      "distToCoastKm": 1.4,
+      "forestType": "pinar_costaner"
+    },
+    {
+      "id": "c303",
+      "lat": 39.83434,
+      "lon": 3.14473,
+      "elevation": 4,
+      "region": "pla",
+      "distToCoastKm": 0,
+      "forestType": "pinar_costaner"
+    },
+    {
+      "id": "c304",
+      "lat": 39.86434,
+      "lon": 2.86473,
+      "elevation": 687,
+      "region": "tramuntana",
+      "distToCoastKm": 1.2,
+      "forestType": "alzinar_muntanya"
+    },
+    {
+      "id": "c305",
+      "lat": 39.86434,
+      "lon": 2.90473,
+      "elevation": 658,
+      "region": "tramuntana",
+      "distToCoastKm": 2.9,
+      "forestType": "alzinar_muntanya"
+    },
+    {
+      "id": "c306",
+      "lat": 39.86434,
+      "lon": 2.94473,
+      "elevation": 155,
+      "region": "tramuntana",
+      "distToCoastKm": 4.3,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c307",
+      "lat": 39.86434,
+      "lon": 2.98473,
+      "elevation": 187,
+      "region": "pla",
+      "distToCoastKm": 4.9,
+      "forestType": "agricola_seca"
+    },
+    {
+      "id": "c308",
+      "lat": 39.86434,
+      "lon": 3.02473,
+      "elevation": 74,
+      "region": "pla",
+      "distToCoastKm": 5.1,
+      "forestType": "agricola_seca"
+    },
+    {
+      "id": "c309",
+      "lat": 39.86434,
+      "lon": 3.06473,
+      "elevation": 9,
+      "region": "pla",
+      "distToCoastKm": 2,
+      "forestType": "pinar_costaner"
+    },
+    {
+      "id": "c310",
+      "lat": 39.86434,
+      "lon": 3.14473,
+      "elevation": 3,
+      "region": "pla",
+      "distToCoastKm": 0.1,
+      "forestType": "pinar_costaner"
+    },
+    {
+      "id": "c311",
+      "lat": 39.86434,
+      "lon": 3.18473,
+      "elevation": 200,
+      "region": "llevant_nord",
+      "distToCoastKm": 0.2,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c312",
+      "lat": 39.89434,
+      "lon": 2.90473,
+      "elevation": 355,
+      "region": "tramuntana",
+      "distToCoastKm": 0.3,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c313",
+      "lat": 39.89434,
+      "lon": 2.94473,
+      "elevation": 423,
+      "region": "tramuntana",
+      "distToCoastKm": 1.3,
+      "forestType": "pinar_muntanya_calcari"
+    },
+    {
+      "id": "c314",
+      "lat": 39.89434,
+      "lon": 2.98473,
+      "elevation": 183,
+      "region": "pla",
+      "distToCoastKm": 1.6,
+      "forestType": "pinar_costaner"
+    },
+    {
+      "id": "c315",
+      "lat": 39.89434,
+      "lon": 3.02473,
+      "elevation": 39,
+      "region": "pla",
+      "distToCoastKm": 3.5,
+      "forestType": "agricola_seca"
+    },
+    {
+      "id": "c316",
+      "lat": 39.89434,
+      "lon": 3.06473,
+      "elevation": 11,
+      "region": "pla",
+      "distToCoastKm": 1.2,
+      "forestType": "pinar_costaner"
+    },
+    {
+      "id": "c317",
+      "lat": 39.92434,
+      "lon": 3.02473,
+      "elevation": 218,
+      "region": "pla",
+      "distToCoastKm": 0.8,
+      "forestType": "pinar_costaner"
+    },
+    {
+      "id": "c318",
+      "lat": 39.92434,
+      "lon": 3.10473,
+      "elevation": 101,
+      "region": "pla",
+      "distToCoastKm": 0.6,
+      "forestType": "pinar_costaner"
+    }
+  ]
+}

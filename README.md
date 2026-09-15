@@ -1,8 +1,9 @@
 # Bolets Mallorca
 
-Mapa de probabilitat de trobar bolets (esclatasang, fredolic, cama-sec, bolets
-d'alzinar, gírgola) a Mallorca, basat en pluja, temperatura i humitat del sòl
-recents. Pensat per a ús personal/amics, sense login.
+Mapa de probabilitat de trobar bolets a Mallorca (esclatasang/picornell,
+fredolic, blava, peus de rata, orella de llebre, cama-sec, gírgola de card),
+basat en pluja, temperatura i humitat del sòl recents. Pensat per a ús
+personal/amics, sense login.
 
 ## Com funciona
 
@@ -43,6 +44,10 @@ npx serve web -l 5500              # serveix la carpeta web/
   coneixement micològic general, no ajustats amb dades reals de Mallorca.
   Caldria un registre de sortides (trobat molt / poc / res) per anar-los
   corregint durant la temporada.
+- **Identificació de "peus de rata" (Ramaria spp.) i "orella de llebre"
+  (Otidea onotica)**: són les dues espècies amb menys confiança de la
+  llista — si l'equivalència amb el nom popular mallorquí no és correcta,
+  cal ajustar-ho a `scripts/lib/species.mjs`.
 - **Sense capa de finques públiques/privades**: la majoria de bosc a
   Mallorca és privat. L'app no distingeix terreny públic (Sa Comuna,
   Galatzó, Son Moragues...) de finques privades — de moment cal

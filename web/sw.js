@@ -1,4 +1,4 @@
-const CACHE = "bolets-mallorca-v2";
+const CACHE = "bolets-mallorca-v3";
 const SHELL = ["./", "./index.html", "./app.js", "./manifest.json", "./icon.svg"];
 
 self.addEventListener("install", (event) => {
@@ -13,13 +13,16 @@ self.addEventListener("activate", (event) => {
   self.clients.claim();
 });
 
+// Network-first for everything: always serve the latest code/data when online, and only
+// fall back to the cache when offline. Avoids stale-app-shell bugs after each deploy.
 self.addEventListener("fetch", (event) => {
-  const url = new URL(event.request.url);
-  if (url.pathname.endsWith("/data/scores.geojson")) {
-    event.respondWith(fetch(event.request).catch(() => caches.match(event.request)));
-    return;
-  }
   event.respondWith(
-    caches.match(event.request).then((cached) => cached || fetch(event.request))
+    fetch(event.request)
+      .then((res) => {
+        const copy = res.clone();
+        caches.open(CACHE).then((c) => c.put(event.request, copy));
+        return res;
+      })
+      .catch(() => caches.match(event.request))
   );
 });
